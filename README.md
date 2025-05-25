@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @supm1ner, i am c++ junior coder and minecraft player)
+- 👋 Hi, I’m @supm1ner, i am c++, go, java junior coder 
 
 
 <!---
