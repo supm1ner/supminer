@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @supm1ner, i am c++, go, java junior coder 
+- 👋 Hi, I’m @supm1ner, i am c++, java programer. make mods for minecraft
 
 
 <!---
