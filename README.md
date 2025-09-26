@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔫 really programmer<br>🥶 i use arch btw<br>🤑 fullstack. (react, js, ts, java,c ++ and many)<br>
-
+![GitHub Snake](https://github.com/IMDelewer/snk/blob/output/github-contribution-grid-snake-grey.svg)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CpkC8Sww5y) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirillbelakov2222@gmail.com) 
